@@ -7,6 +7,9 @@ i have written this
 
 https://www.quora.com/How-can-I-get-started-with-GitHub
 
+"remote = github website"
+"local = your PC"
+
 "If you want to bring commits from remote to local, you pull.
 
 If you want to move your commits from local to remote, you push.
